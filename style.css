@@ -22,12 +22,18 @@ body {
   padding: 2rem;
   font-family: "Roboto", sans-serif;
   color: var(--color);
-  background: #FFFFFF
-  
+  background: #FFFFFF 
 }
 
 .center-content {
   text-align: center;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+  border: 3px solid #5fe910;
+  border-radius: 10px 20px 10px 20px;
 }
 
 h1 {
