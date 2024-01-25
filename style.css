@@ -25,6 +25,16 @@ body {
   background: #FFFFFF 
 }
 
+.btn.btn-primary {
+  background-color: #3B7355; 
+  color: #ffffff;
+  border: 1px solid #40a804;   
+}
+
+.btn.btn-primary:hover {
+    background-color: #ff7433; 
+    border: 1px solid #5fe910; 
+}
 .center-content {
   max-width: 100%;
   height: auto;
